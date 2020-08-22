@@ -1,7 +1,7 @@
 # taxiWebApp
 Runs with XAMMP or LAMP stack locally. I used Dreamweaver as the main IDE with their testing server.
 
-Site is not maintained and may encounted js libraries errors, they keep updating these libraries. It gets pretty annoying.
+Site is not maintained and may encounter js libraries errors, they keep updating these libraries. It gets pretty annoying. If you able to fix it, please let know.
 
 Hopefully the test sites still up until on http://workrack.com.au/webapptheme11/webapptheme11/admin/login.php admin/123 until I run out of time or cash to host it.
 
